@@ -1,4 +1,5 @@
-﻿namespace ConsoleApp5
+﻿//
+namespace ConsoleApp5
 {
     public interface IShape
     {
